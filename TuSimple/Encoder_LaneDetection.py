@@ -1,6 +1,7 @@
 '''
 This architecture is based on the paper:
 Reliable multilane detection and classification by utilizing CNN as a regression network, Chougule et al. (2018)
+- Cannot handle lane changes!
 '''
 
 from utils.config import config
