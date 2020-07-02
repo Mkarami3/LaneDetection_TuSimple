@@ -1,3 +1,6 @@
+'''
+Serialize images as HDF5 format in the hard disk
+'''
 from utils.config import config
 from sklearn.model_selection import train_test_split
 from utils.preprocessing import Preprocessor_norm,Preprocessor_resize
