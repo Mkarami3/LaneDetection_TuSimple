@@ -1,12 +1,8 @@
 '''
-- Deal with non-valid points, number of points per lane --> Done
-- Normalizing labels dataset or gt labels correspond to image?! --> Done
-- Writing a Video based on a new images --> Done
-- Create Figure for drawing train loss, write a callback function
-- How to resize picture, keep aspect ratio?
-- Crop the image by the height of lane available on json file
+This file generates a new data set with augmentation of TuSimple data set
 '''
 '''
+Number of labeled images per each json file
 0313---2858 files
 0531---358 files
 0601---410 files
